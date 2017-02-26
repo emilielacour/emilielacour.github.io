@@ -1,0 +1,97 @@
+body {
+	font-family: 'Abril Fatface', cursive;
+}
+
+.navfont{
+	font-family: 'Lato', sans-serif;
+}
+
+
+.banner{
+	background-color: #bcd4e2;
+	background-size: 100%;
+	background-position: 50%;
+	margin-left: 0px;
+	height: 180px;
+}
+
+.carousel-inner {
+	text-align: center;
+}
+
+.item img {
+	max-height: 400px;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.name{
+	text-align: center;
+	padding-top: 50px;
+	font-family: 'Stalemate', cursive;
+	font-size: 100;
+}
+
+
+.instagram-media{
+	width: 300px;
+	margin: 0 auto !important;
+}
+
+.card{
+	text-align: center;
+	border-style: solid;
+    border-color: #969696;
+    border-width: 1px;
+    -webkit-box-shadow: -11px -4px 29px -10px rgba(120,116,120,1);
+-moz-box-shadow: -11px -4px 29px -10px rgba(120,116,120,1);
+box-shadow: -11px -4px 29px -10px rgba(120,116,120,1);
+}
+
+.photo{
+	width: 200px;
+	height:200px;
+}
+
+.card-text{
+	font-family: 'Lato', sans-serif;
+}
+
+.card-footer{
+	font-size: 20px;
+}
+
+.card2{
+	text-align: center;
+	border-style: solid;
+    border-color: #969696;
+    border-width: 1px;
+    -webkit-box-shadow: -11px -4px 29px -10px rgba(120,116,120,1);
+-moz-box-shadow: -11px -4px 29px -10px rgba(120,116,120,1);
+box-shadow: -11px -4px 29px -10px rgba(120,116,120,1);
+}
+
+.post1{
+	text-align: center;
+}
+
+.post-text{
+	font-family: 'Lato', sans-serif;
+	
+}
+
+.list{
+	list-style-type: none;
+}
+
+.card-block3{
+	width: 300px;
+}
+
+.ingredients{
+	font-weight: 500;
+}
+
+
+
+
